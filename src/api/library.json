@@ -1,0 +1,137 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Leanne Graham",
+      "bookPublishing": "Bret",
+      "price": 109,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/1096484/20/Kitap_20201203144130109648412.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "id": 2,
+      "author": "Cristina Aguilera",
+      "bookPublishing": "Bret",
+      "price": 106,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/166367/26/Kitap_202202121803581663674.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "id": 3,
+      "author": "Roberto Bolaño",
+      "bookPublishing": "Bret",
+      "price": 120,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/1096484/20/Kitap_20201203144130109648412.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "id": 4,
+      "author": "Lionel Messi",
+      "bookPublishing": "Bret",
+      "price": 100,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/166367/26/Kitap_202202121803581663674.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "author": "muslum dogan",
+      "bookPublishing": "2019",
+      "price": 110,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "",
+      "description": "lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set lorem ipsum amet set ",
+      "id": 7
+    },
+    {
+      "author": "hello",
+      "bookPublishing": "2019",
+      "price": 310,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "",
+      "description": "Flexbox can do some pretty awesome things when you mix flex alignments with auto margins. Shown below are three examples of controlling flex items via auto margins: default (no auto margin), pushing two items to the right (.mr-auto), and pushing two items to the",
+      "id": 8
+    },
+    {
+      "author": "Test",
+      "bookPublishing": "2019",
+      "price": 210,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "",
+      "description": "Change how flex items wrap in a flex container. Choose from no wrapping at all (the browser default) with .flex-nowrap, wrapping with .flex-wrap, or reverse wrapping with .flex-wrap-reverse.",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "author": "Pablo Picasso",
+      "bookPublishing": "Bret",
+      "price": 150,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/166367/26/Kitap_202202121803581663674.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "id": 11,
+      "author": "Willy Wonka",
+      "bookPublishing": "Bret",
+      "price": 30,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "https://static.nadirkitap.com/fotograf/166367/26/Kitap_202202121803581663674.jpg",
+      "description": "Tol, Har, Merhume gibi unutulmaz romanların yazarı Murat Uyurkulak Delibo'yla İzmir'in sokaklarında dolanıyor ve hem tükenmeyen bir tutkunun hem de hayli kanıksanmış ülke gerçeklerinin izini sürüyor. Bu karnavalesk aşk romanında, akıllı ve duyarlı ama bir o kadar da yaralı ve öfke dolu Yusuf'un kurtulamadığı sevdasını anlatıyor. Beraberinde de hayatlarımızın içine sinip kabuk bağlamış meseleleri eşeliyor; eşitsizliği, haksızlığı, yoksulluğu, kini ve düğüm olmuş aile ilişkilerini gözler önüne seriyor - sakınmadan, lafı uzatmadan ve her zaman olduğu gibi sözünü esirgemeden..."
+    },
+    {
+      "author": "Elif Şafak",
+      "bookPublishing": "2019",
+      "price": 10,
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "",
+      "description": "Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet Lorem ipsum amet ",
+      "id": 12
+    },
+    {
+      "author": "Ahmet Hamdi Tanpınar",
+      "bookPublishing": "2019",
+      "price": "50",
+      "email": "muslumdogan01@gmail.com",
+      "password": "muslum123",
+      "image": "",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ",
+      "id": 13
+    },
+    {
+      "author": "asd",
+      "bookPublishing": "2019",
+      "price": "asd",
+      "image": "",
+      "description": "asd",
+      "id": 14
+    },
+    {
+      "email": "muslumdogan02@gmail.com",
+      "password": "dogan12",
+      "id": 15
+    },
+    {
+      "email": "hakandogan@gmail.com",
+      "password": "hakan123",
+      "id": 16
+    },
+    {
+      "email": "enson@gmaşlç.com",
+      "password": "mus321",
+      "id": 17
+    }
+  ]
+}

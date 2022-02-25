@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { QueryClientProvider } from "react-query";
+import { Routes, Route } from "react-router-dom";
+import Contact from "./Pages/Contact";
+import Home from "./Pages/Home";
+import Eror from "./Pages/Eror";
+import Navbar from "./Components/Navbar";
+import Detail from "./Components/Detail";
+import queryClient from "./query";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <QueryClientProvider client={queryClient}>
+      <header>
+        <Navbar />
       </header>
-    </div>
+      <main className="container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/Contact" element={<Contact />} />
+          <Route path="Detail/:id" element={<Detail />} />
+          <Route path="*" element={<Eror />} />
+        </Routes>
+      </main>
+    </QueryClientProvider>
   );
-}
+};
 
 export default App;
